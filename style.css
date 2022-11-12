@@ -365,6 +365,9 @@
 @media (max-width: 400px) {
  /* Presentation section */ 
  #hero {
-  height: 130vh;
+  height: 160vh;
+ }
+ ._hero-media400 {
+  margin-right: 50px;
  }
 }
