@@ -209,7 +209,7 @@
   color: #777777;
 }
 .team .member:hover .social {
-  opacity: 1;
+  opacity: 1; 
   bottom: 15px;
 }
 .i {
@@ -360,4 +360,11 @@
 #footer_form a {
   margin-bottom: 2.5px;
   padding: 0.26em;
+}
+
+@media (max-width: 400px) {
+ /* Presentation section */ 
+ #hero {
+  height: 130vh;
+ }
 }
