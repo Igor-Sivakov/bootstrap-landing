@@ -94,6 +94,7 @@
   list-style-type: none;
 }
 
+
 /* Call to action section */
 .cta {
   background: linear-gradient(rgba(51, 49, 172, 0.5), rgba(51, 49, 172, 0.5)),
@@ -342,6 +343,7 @@
 .footer-links a {
   color: white;
   text-decoration: none;
+  padding-left: 4px;
 }
 .footer-links a:hover {
   color: #ffc451;
